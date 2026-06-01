@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Cinema Empire Tycoon",
+    "owner": "ssstormss",
+    "slug": "cinema-empire-tycoon",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "cinemaempiretycoon",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.ssstormss.cinemaempiretycoon"
+    },
+    "android": {
+      "package": "com.ssstormss.cinemaempiretycoon",
+      "adaptiveIcon": {
+        "backgroundColor": "#140b1e"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
