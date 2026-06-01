@@ -12,7 +12,10 @@
     ],
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.ssstormss.cinemaempiretycoon"
+      "bundleIdentifier": "com.ssstormss.cinemaempiretycoon",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "package": "com.ssstormss.cinemaempiretycoon",
